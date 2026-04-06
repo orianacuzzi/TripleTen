@@ -10,9 +10,9 @@ Este proyecto tiene como objetivo analizar el comportamiento de los clientes de 
 
 Se emplean los siguientes conjuntos de datos:
 
-plans.csv: los planes actuales (precio, minutos incluidos, GB incluidos, costo por extra).
-users_latam.csv: información de clientes: edad, ciudad, fecha de registro, plan contratado.
-usage.csv: el detalle de uso real: llamadas (duración) y mensajes (longitud).
+- plans.csv: los planes actuales (precio, minutos incluidos, GB incluidos, costo por extra).
+- users_latam.csv: información de clientes: edad, ciudad, fecha de registro, plan contratado.
+- usage.csv: el detalle de uso real: llamadas (duración) y mensajes (longitud).
   
 Cada dataset contiene atributos que se usan para segmentar, analizar patrones de comportamiento y visualizar tendencias.
 
